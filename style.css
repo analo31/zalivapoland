@@ -1,0 +1,22 @@
+/*   
+Theme Name: Sok
+*/
+.hidden{ display: none!important; }
+.wpcf7-not-valid-tip,.wpcf7-validation-errors,.ajax-loader,.wpcf7-mail-sent-ok{ display:none!important; }
+.wpcf7-form p.forms{ padding: 0!important; }
+.wpcf7-not-valid {
+    border-color: red !important;
+}
+.wpcf7-not-valid{ border-color: red !important; }
+
+.page-template-page5 .content{
+	padding-top: 200px;
+}
+.image_partners img{
+	width: auto;
+	height: auto;
+	max-height: 100%;
+	display: block;
+	
+	margin: 0 auto;
+}
